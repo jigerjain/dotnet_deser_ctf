@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDY7jlVw2pJm8U3MoFZewoKIxHQkI777TVs2E/ayTA0Czlr6WMq80Yb2JcYcuL936SZ6DYfmoEIqpuHQWiWt9A==",
+  "success": true,
+  "projectFilePath": "/Users/jigerjain/Jiger Jain/CTF_Cit/ctf/challenges/DotNet-Deserialization/DotNet_Deserialization/DotNet_Deserialization.csproj",
+  "expectedPackageFiles": [
+    "/Users/jigerjain/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.5/microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
+    "/Users/jigerjain/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.5/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",
+    "/Users/jigerjain/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/jigerjain/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/jigerjain/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
